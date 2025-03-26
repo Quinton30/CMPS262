@@ -34,8 +34,8 @@ A simple Node.js and PostgreSQL API for managing movie records.
 
 ### 📥 Clone the Repository
 ```bash
-git clone https://github.com/Quinton30/CMPS262/
-cd CMPS262/Module3
+git clone https://github.com/Quinton30/CMPS262.git
+cd CMPS262/Module4
 ```
 
 ### 📦 Install Dependencies
