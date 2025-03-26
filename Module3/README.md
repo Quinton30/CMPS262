@@ -11,7 +11,7 @@ A simple Node.js and PostgreSQL API for managing student records.
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/Quinton30/CMPS262.git
-    cd CMPS262
+    cd CMPS262/Module3
     ```
 
 2. **Install dependencies**:
