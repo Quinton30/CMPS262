@@ -9,7 +9,7 @@ app.get("/", (req,res) => {
     res.send("Hello world!");
 });
 
-app.use('/api/v1/students', studentRoutes);
+app.use('/api/v1/students', studentRoutes); //Default
 
 
 
