@@ -52,4 +52,4 @@ A simple Node.js and PostgreSQL API for managing student records.
 
 ## License
 
-This project is open-source. Feel free to modify and contribute! 🚀
+This project is open-source. Feel free to modify and contribute!! 🚀
